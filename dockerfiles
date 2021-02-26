@@ -1,1 +1,1 @@
-FROM gcr.io/broad-cga-aarong-gtex/rnaseqc:495d7194f92c71eb8c58d7660e4f6acd1801832a
+FROM gcr.io/broad-cga-aarong-gtex/scrinvex:4313e3122290ff262f96b3772d1ae07dc85129b6
